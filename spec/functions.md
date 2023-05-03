@@ -18,6 +18,8 @@
 
 ## Definitions
 
+## This is way Cool 
+
 ### Special Number
 
 A *special number* is either:
